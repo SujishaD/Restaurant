@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"Sujisha",
+    "phone":"9999999999",
+    "email":"devinenisujisha@gmail.com",
+    "Address":"(d/o)D.V.Ramana,Eluru"
+  },
+  "education":[{
+    "course":"B.Tech(computer science and engineering)",
+    "institute":"CR Reddy enginerring college",
+    "data":["2015-2019","98%"]
+  },
+
+  {
+    "course":"Inter(MPC)",
+    "institute":"Narayana ",
+    "data":["2013-2015","97%"]
+  },
+  {
+    "course":"SSC",
+    "Institute" :"Sree Bharathi school",
+    "data":["2012-2013","96%"]
+  }
+],
+"skills":[
+  {
+    "name":"language",
+    "data":["C","JAVA","PHP"]
+  },
+  {
+    "name":"Web Technologies",
+    "data":["HTML","CSS","PHP"]
+  },
+  {
+    "name":"OS",
+    "data":["windows","Linux","Unix"]
+    }
+]
+}
